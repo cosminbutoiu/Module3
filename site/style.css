@@ -1,0 +1,89 @@
+/** HEADER **/
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+}
+
+.pull-left {
+    float: left;
+}
+
+.navbar-brand {
+    padding-top: 40px;
+    height: 100px;
+}
+
+.navbar-brand h1 { /*Restaurant name*/
+    color: black;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#phone {
+  margin-top: 5px;
+}
+#phone a { /* Phone number */
+  text-align: right;
+  padding-bottom: 0;
+}
+#phone div { /* We Deliver */
+  color: #557c3e;
+  text-align: right;
+  padding-right: 15px;
+}
+
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -65px;
+  }
+  
+
+
+  .navbar-brand h1 {
+    text-align: left;
+  }
+
+  .title {
+      text-align: center;
+      padding-bottom: 40px;
+      font-weight: bold;
+  }
+
+  .container {
+      background-color: grey;
+      width: 97%;
+  }
+
+  h2 {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  
